@@ -1,6 +1,6 @@
 ## Hi there, I'm Liz Nelson 👋
 
-<a href='www.linkedin.com/in/liznelsondev'>
+<a href='https://www.linkedin.com/in/liznelsondev'>
     <img align="left" alt="Liz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
