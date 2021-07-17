@@ -7,6 +7,7 @@
 <a href="https://github.com/liznelson">
   <img align="left" alt="Liz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
 
 ### 🧑‍💼 Some facts about me:
 - I work at Ingeniux. I help define and implement technical solutions to meet the needs of our customers. I work in the intersection of business, software and UX. 
