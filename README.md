@@ -28,20 +28,20 @@
 ---
 ### Languages, Frameworks and Tools
 <div>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg' height=20>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg' height=20>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height=20>
 </div>
