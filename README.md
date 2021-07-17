@@ -7,11 +7,9 @@
 <a href="https://github.com/liznelson">
   <img align="left" alt="Liz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br>
-<br>
 
 ### 🧑‍💼 Some facts about me:
-- I'm work at Ingeniux. I help define and implement technical solutions to meet the needs of our customers. I work in the intersection of business, software and UX. 
+- I work at Ingeniux. I help define and implement technical solutions to meet the needs of our customers. I work in the intersection of business, software and UX. 
 - I'm currently in two degree programs at the University of London. 
   - BSc in Data Science and Business Analytics at the London School of Economics
   - BSc in Computer Science at Goldsmiths with a specialism in Machine Learning
@@ -24,11 +22,11 @@
 
 ### 🧑‍💻 Some projects I'm working on:
 
-[Coming Soon]!
+[Coming Soon]
 
 ---
 ### Languages, Frameworks and Tools
-
+<div>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' height=20>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg' height=20>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' height=20>
@@ -45,4 +43,4 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg' height=20>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg' height=20>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height=20>
-
+</div>
