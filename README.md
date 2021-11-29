@@ -10,7 +10,7 @@
 <br>
 
 ### 🧑‍💼 Some facts about me:
-- I work at Ingeniux. I help define and implement technical solutions to meet the needs of our customers. I work in the intersection of business, software and UX. 
+- I work at Ingeniux. I help define and implement technical solutions. 
 - I'm currently in two degree programs at the University of London. 
   - BSc in Data Science and Business Analytics at the London School of Economics
   - BSc in Computer Science at Goldsmiths with a specialism in Machine Learning
